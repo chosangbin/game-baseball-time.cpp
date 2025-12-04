@@ -1,5 +1,5 @@
 #include <stdio.h>      //ㅐPRINTF, scanf를 사용하기 위해서 헤더 추가 
-#include <stdlib.h>    // rand, srand를 사용하기 위해서 헤더 추가
+#include <stdlib.h>    // rand, srand를 사용하기 위해서 헤더 추가 
 #include <time.h>   // time 함수를 사용하기 위해서 헤더 추가
 
 int main(void)      //프로그램을 실행하는 main 함수
